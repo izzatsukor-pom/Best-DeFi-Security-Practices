@@ -1,6 +1,6 @@
 # Ultimate Web3 Security Practices
 An ultimate list of security practices for DeFi protocols to ensure user safety.
-test
+
 ## Wayfinding
 
 | Categorisation     | Link |
